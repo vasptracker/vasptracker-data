@@ -1,0 +1,24 @@
+{
+ "platforms": 170,
+ "major_total": 22,
+ "major_in_data": 0,
+ "spsav_open": 7,
+ "major_said_apply": 3,
+ "major_said_apply_names": "Mercado Bitcoin (MB), Bybit, OKX",
+ "exiting": 8,
+ "scaling_back": 2,
+ "in_process": 7,
+ "authorized": 0,
+ "first_spsav_month": "30/06/2026",
+ "open_ni": 1,
+ "open_total": 8,
+ "open_ni_pes": [
+  304022
+ ],
+ "open_pt": "7 processos de SPSAV em aberto (+1 com segmento não informado)",
+ "open_en": "7 open SPSAV processes (+1 with no segment stated)",
+ "open_header_pt": "7 SPSAV + 1 sem segmento informado",
+ "open_header_en": "7 SPSAV + 1 with no segment stated",
+ "open_note_pt": "A lista de processos em aberto do BCB traz 7 no segmento SPSAV e 1 com segmento não informado: 304022 (Higher Global Payments), indeferido em 25/08/2026 segundo o DOU de 28/09/2026; a consulta de situação do BCB ainda mostra “Em Exame”.",
+ "open_note_en": "BCB's open-process list has 7 in the SPSAV segment and 1 with no segment stated: 304022 (Higher Global Payments), denied on 25 Aug 2026 per the Official Gazette of 28 Sep 2026; the BCB status query still shows “Em Exame”."
+}
