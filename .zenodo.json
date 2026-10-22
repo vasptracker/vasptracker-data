@@ -1,0 +1,17 @@
+{
+  "upload_type": "dataset",
+  "title": "VASP Tracker: Crypto licensing deadlines worldwide and Brazil SPSAV tracker",
+  "creators": [
+    {"name": "VASP Tracker"},
+    {"name": "Bradley, Daniel", "affiliation": "VASP Tracker"}
+  ],
+  "description": "Open data on when crypto firms (virtual-asset service providers) must be licensed in 74 jurisdictions, with every date linked to the law, official gazette or regulator notice, plus a company-level tracker of 170 platforms serving Brazil and their status in Banco Central do Brasil authorisation data (SPSAV). Snapshot of 21 October 2026; BCB reference date 30/09/2026. Live, continuously refreshed version: https://vasptracker.com/",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["crypto regulation", "virtual asset service providers", "VASP", "CASP", "MiCA", "licensing", "Banco Central do Brasil", "SPSAV", "open data"],
+  "related_identifiers": [
+    {"identifier": "https://vasptracker.com/", "relation": "isDocumentedBy", "resource_type": "other"},
+    {"identifier": "https://vasptracker.com/en/br/methodology/", "relation": "isDocumentedBy", "resource_type": "other"}
+  ],
+  "language": "eng"
+}

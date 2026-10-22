@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "VASP Tracker: Crypto licensing deadlines worldwide and Brazil SPSAV tracker"
+authors:
+  - name: "VASP Tracker"
+    website: "https://vasptracker.com/"
+  - family-names: "Bradley"
+    given-names: "Daniel"
+    affiliation: "VASP Tracker"
+license: CC-BY-4.0
+url: "https://vasptracker.com/"
+repository-code: "https://github.com/vasptracker/vasptracker-data"
+date-released: 2026-10-21
+version: "2026-10-21"
+keywords:
+  - crypto regulation
+  - VASP
+  - CASP
+  - MiCA
+  - licensing deadlines
+  - Banco Central do Brasil
+  - SPSAV
+  - open data
