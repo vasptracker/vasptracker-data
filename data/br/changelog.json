@@ -1,5 +1,552 @@
 [
  {
+  "date": "2026-11-18",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 315286,
+  "nome": "MAZZERA SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS SA",
+  "from": "Em Exame",
+  "to": "Aguardando manifestação do titular"
+ },
+ {
+  "date": "2026-11-18",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317872,
+  "nome": "BLOCKRIVER SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S/A",
+  "from": "Em Exame",
+  "to": "Em Agenda"
+ },
+ {
+  "date": "2026-11-17",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317872,
+  "nome": "BLOCKRIVER SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S/A",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-13",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317707,
+  "nome": "PAX SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-13",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317814,
+  "nome": "BBRASIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-13",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317873,
+  "nome": "AVENIA SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-13",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 318003,
+  "nome": "BLOXTRADE SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-13",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 318016,
+  "nome": "CADEMARTORI Z SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-13",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 318027,
+  "nome": "TGW BRAZIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-13",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 318093,
+  "nome": "Liqi Sociedade Prestadora de Serviços de Ativos Virtuais S.A.",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-12",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317185,
+  "nome": "PRISMAPAY SERVICOS DIGITAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-12",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317760,
+  "nome": "ASA DIGITAL ASSETS SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-12",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317865,
+  "nome": "RIPIO BRASIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA.",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-12",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317872,
+  "nome": "BLOCKRIVER SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S/A",
+  "from": "Em Exame",
+  "to": "Em Agenda"
+ },
+ {
+  "date": "2026-11-11",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 315453,
+  "nome": "TRANSFERO SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS (SPSAV) LTDA.",
+  "from": "Em Exame",
+  "to": "Em Agenda"
+ },
+ {
+  "date": "2026-11-11",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 316861,
+  "nome": "LH SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Exame",
+  "to": "Em Agenda"
+ },
+ {
+  "date": "2026-11-11",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317117,
+  "nome": "CROWN SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Exame",
+  "to": "Em Agenda"
+ },
+ {
+  "date": "2026-11-11",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317185,
+  "nome": "PRISMAPAY SERVICOS DIGITAIS LTDA",
+  "from": "Em Exame",
+  "to": "Em Agenda"
+ },
+ {
+  "date": "2026-11-10",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 310426,
+  "nome": "WYNX EXCHANGE SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S/A",
+  "from": "Aguardando manifestação do titular",
+  "to": "Em Agenda"
+ },
+ {
+  "date": "2026-11-10",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 315453,
+  "nome": "TRANSFERO SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS (SPSAV) LTDA.",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-10",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 316861,
+  "nome": "LH SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-10",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317117,
+  "nome": "CROWN SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-08",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 310426,
+  "nome": "WYNX EXCHANGE SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S/A",
+  "from": "Em Exame",
+  "to": "Aguardando manifestação do titular"
+ },
+ {
+  "date": "2026-11-07",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 310426,
+  "nome": "WYNX EXCHANGE SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S/A",
+  "from": "Aguardando manifestação do titular",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-07",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 314386,
+  "nome": "W BRASIL COMERCIO LTDA",
+  "from": "Aguardando recebimento",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-07",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 315286,
+  "nome": "MAZZERA SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS SA",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
+  "date": "2026-11-07",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 315453,
+  "nome": "TRANSFERO SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS (SPSAV) LTDA.",
+  "from": "Em Exame",
+  "to": "Em Agenda"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317185,
+  "nome": "PRISMAPAY SERVICOS DIGITAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318084,
+  "nome": "CROSS SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317705,
+  "nome": "DLOCAL BRASIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317707,
+  "nome": "PAX SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318093,
+  "nome": "Liqi Sociedade Prestadora de Serviços de Ativos Virtuais S.A.",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318099,
+  "nome": "OPENFX SOCIEDADE BRASILEIRA PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318100,
+  "nome": "SUITCOIN SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 316819,
+  "nome": "TRKBIT SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318102,
+  "nome": "RIPPLE BRASIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317730,
+  "nome": "NU CRYPTO SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317603,
+  "nome": "ETHER.FI SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 316967,
+  "nome": "ORBIT SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S.A.",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317864,
+  "nome": "MADAR SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S.A.",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317865,
+  "nome": "RIPIO BRASIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA.",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317483,
+  "nome": "FLGE SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317996,
+  "nome": "LUMX SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317998,
+  "nome": "MERCADO BITCOIN SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317872,
+  "nome": "BLOCKRIVER SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S/A",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317873,
+  "nome": "AVENIA SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318002,
+  "nome": "NONCO SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318003,
+  "nome": "BLOXTRADE SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317883,
+  "nome": "OSL BRASIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317885,
+  "nome": "BLOQUO SOCIEDADE PRESTADORA DE SERVIÇOS DE ATIVOS VIRTUAIS LTDA.",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317373,
+  "nome": "OKX SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317117,
+  "nome": "CROWN SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318016,
+  "nome": "CADEMARTORI Z SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318017,
+  "nome": "NEXUS GROUP LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317760,
+  "nome": "ASA DIGITAL ASSETS SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 316861,
+  "nome": "LH SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318021,
+  "nome": "COINBASE BRASIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317765,
+  "nome": "OTSEM SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317253,
+  "nome": "BRASIL 8 SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317642,
+  "nome": "NEO SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 318027,
+  "nome": "TGW BRAZIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317392,
+  "nome": "UNBLOCK SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317813,
+  "nome": "INTER DIGITAL ASSETS - SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317814,
+  "nome": "BBRASIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
+  "date": "31/10/2026",
+  "snapshot": "2026-10",
+  "type": "process_added",
+  "numero_pe": 317557,
+  "nome": "BYBIT BRASIL SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "segmento": "Sociedade Prestadora de Serviços de Ativos Virtuais"
+ },
+ {
   "date": "30/09/2026",
   "snapshot": "2026-09",
   "type": "process_added",

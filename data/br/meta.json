@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-21T01:10:31-03:00",
- "run_date": "2026-10-21",
+ "generated_at": "2026-11-18T02:51:12-03:00",
+ "run_date": "2026-11-18",
  "latest_snapshot": "2026-10",
- "latest_data_base": "30/09/2026",
+ "latest_data_base": "31/10/2026",
  "snapshots": 33,
  "snapshot_errors": {
-  "2024-08": "GET failed https://olinda.bcb.gov.br/olinda/servico/Processos_Autorizacao/versao/v1/odata/ProcessosAutorizacaoFuncioname"
+  "2024-08": "BCB OData returns HTTP 500 for this data-base (server-side; month cannot be read in full)"
  },
- "pix_list_date": "20261020",
+ "pix_list_date": "20261117",
  "authorized_spsav_count": 0,
  "institutions_rows": {
-  "SedesSociedades": 706,
-  "SedesBancoComMultCE": 153
+  "SedesSociedades": 704,
+  "SedesBancoComMultCE": 154
  }
 }
