@@ -2,7 +2,7 @@
  "license": "CC BY 4.0",
  "attribution": "VASP Tracker (vasptracker.com)",
  "meta": {
-  "generated_at": "2026-11-18T02:51:12-03:00",
+  "generated_at": "2026-11-18T08:31:47-03:00",
   "run_date": "2026-11-18",
   "latest_snapshot": "2026-10",
   "latest_data_base": "31/10/2026",
@@ -10,10 +10,10 @@
   "snapshot_errors": {
    "2024-08": "BCB OData returns HTTP 500 for this data-base (server-side; month cannot be read in full)"
   },
-  "pix_list_date": "20261117",
+  "pix_list_date": "20261118",
   "authorized_spsav_count": 0,
   "institutions_rows": {
-   "SedesSociedades": 704,
+   "SedesSociedades": 705,
    "SedesBancoComMultCE": 154
   }
  },
@@ -1063,7 +1063,7 @@
    "cnpj_roots": "54898266",
    "spsav_process_numbers": "",
    "bcb_situacao": "",
-   "other_bcb_registrations": "OBSIDIAM SOCIEDADE PRESTADORA DE SERVIÇOS  \nDE ATIVOS VIRTUAIS LTDA. [Instituição de Pagamento]",
+   "other_bcb_registrations": "",
    "public_stance": "no_statement_found",
    "statement_pt": "Nenhuma declaração pública sobre pedido de autorização encontrada nas fontes consultadas. A ausência de declaração não indica irregularidade.",
    "statement_en": "No public statement about an authorisation filing found in the sources reviewed. The absence of a statement does not indicate any wrongdoing.",

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:51:12-03:00",
+ "generated_at": "2026-11-18T08:31:47-03:00",
  "run_date": "2026-11-18",
  "latest_snapshot": "2026-10",
  "latest_data_base": "31/10/2026",
@@ -7,10 +7,10 @@
  "snapshot_errors": {
   "2024-08": "BCB OData returns HTTP 500 for this data-base (server-side; month cannot be read in full)"
  },
- "pix_list_date": "20261117",
+ "pix_list_date": "20261118",
  "authorized_spsav_count": 0,
  "institutions_rows": {
-  "SedesSociedades": 704,
+  "SedesSociedades": 705,
   "SedesBancoComMultCE": 154
  }
 }
