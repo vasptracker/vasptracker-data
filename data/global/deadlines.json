@@ -1,7 +1,7 @@
 {
  "license": "CC BY 4.0",
  "attribution": "VASP Tracker (vasptracker.com)",
- "generated_at": "2026-11-18T02:51:30.006383-03:00",
+ "generated_at": "2026-11-18T08:32:05.543261-03:00",
  "source_hierarchy": [
   "official",
   "company",
@@ -22,7 +22,8 @@
    "official_register_url": "https://www.cbr.ru/vfs/finmarkets/files/supervision/list_ooocv.xlsx",
    "register_format": "XLSX",
    "source_urls": "https://www.cbr.ru/press/event/?id=32972 | https://www.cbr.ru/analytics/na_vr/",
-   "page_url": "https://vasptracker.com/en/ru/"
+   "page_url": "https://vasptracker.com/en/ru/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "kr",
@@ -38,7 +39,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "https://www.fsc.go.kr/no010101/88086",
-   "page_url": "https://vasptracker.com/en/kr/"
+   "page_url": "https://vasptracker.com/en/kr/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "th",
@@ -54,7 +56,8 @@
    "official_register_url": "https://market.sec.or.th/LicenseCheck/views/DABusiness/en",
    "register_format": "HTML",
    "source_urls": "https://www.sec.or.th/TH/Pages/News_Detail.aspx?SECID=13528",
-   "page_url": "https://vasptracker.com/en/th/"
+   "page_url": "https://vasptracker.com/en/th/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "bb",
@@ -70,7 +73,8 @@
    "official_register_url": "https://www.fsc.gov.bb/",
    "register_format": "HTML",
    "source_urls": "https://www.barbadosparliament.com/uploads/gazette/Gazette_October_16_2026_Part_A_CLXI_No_122_with_Act_25.pdf",
-   "page_url": "https://vasptracker.com/en/bb/"
+   "page_url": "https://vasptracker.com/en/bb/",
+   "key_date_our_calculation": true
   },
   {
    "jurisdiction_code": "us",
@@ -86,7 +90,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-3.html | https://www.govinfo.gov/content/pkg/FR-2026-09-30/html/2026-19966.htm",
-   "page_url": "https://vasptracker.com/en/us/"
+   "page_url": "https://vasptracker.com/en/us/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "uk",
@@ -102,7 +107,8 @@
    "official_register_url": "https://register.fca.org.uk/s/",
    "register_format": "HTML + API",
    "source_urls": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto | https://www.fca.org.uk/firms/new-regime-cryptoasset-regulation/how-gateway-will-operate",
-   "page_url": "https://vasptracker.com/en/uk/"
+   "page_url": "https://vasptracker.com/en/uk/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "au",
@@ -118,7 +124,8 @@
    "official_register_url": "https://asic.gov.au/online-services/search-asic-s-registers/",
    "register_format": "HTML",
    "source_urls": "https://www.legislation.gov.au/C2026A00038/asmade/2026-04-08/text/original/pdf | https://www.asic.gov.au/regulatory-resources/find-a-document/consultations/cp-392-digital-asset-law-reform-implementation-proposed-standards-and-guidance | https://www.asic.gov.au/about-asic/news-centre/news-items/asics-roadmap-for-digital-assets-law-reform-implementation",
-   "page_url": "https://vasptracker.com/en/au/"
+   "page_url": "https://vasptracker.com/en/au/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "jp",
@@ -134,7 +141,8 @@
    "official_register_url": "https://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf",
    "register_format": "PDF",
    "source_urls": "https://www.fsa.go.jp/common/diet/221/02/01.pdf | https://www.fsa.go.jp/news/r8/shouken/20260729/20260729.html",
-   "page_url": "https://vasptracker.com/en/jp/"
+   "page_url": "https://vasptracker.com/en/jp/",
+   "key_date_our_calculation": true
   },
   {
    "jurisdiction_code": "ca",
@@ -150,7 +158,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "",
-   "page_url": "https://vasptracker.com/en/ca/"
+   "page_url": "https://vasptracker.com/en/ca/",
+   "key_date_our_calculation": ""
   },
   {
    "jurisdiction_code": "gh",
@@ -166,7 +175,8 @@
    "official_register_url": "https://www.bog.gov.gh/virtual-assets/",
    "register_format": "HTML",
    "source_urls": "",
-   "page_url": "https://vasptracker.com/en/gh/"
+   "page_url": "https://vasptracker.com/en/gh/",
+   "key_date_our_calculation": ""
   },
   {
    "jurisdiction_code": "hk",
@@ -182,7 +192,8 @@
    "official_register_url": "https://www.hkma.gov.hk/eng/regulatory-resources/registers/register-of-licensed-stablecoin-issuers/",
    "register_format": "HTML",
    "source_urls": "",
-   "page_url": "https://vasptracker.com/en/hk/"
+   "page_url": "https://vasptracker.com/en/hk/",
+   "key_date_our_calculation": ""
   },
   {
    "jurisdiction_code": "jm",
@@ -198,7 +209,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "",
-   "page_url": "https://vasptracker.com/en/jm/"
+   "page_url": "https://vasptracker.com/en/jm/",
+   "key_date_our_calculation": ""
   },
   {
    "jurisdiction_code": "pl",
@@ -214,7 +226,8 @@
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
    "source_urls": "",
-   "page_url": "https://vasptracker.com/en/pl/"
+   "page_url": "https://vasptracker.com/en/pl/",
+   "key_date_our_calculation": ""
   },
   {
    "jurisdiction_code": "ch",
@@ -230,7 +243,8 @@
    "official_register_url": "https://www.finma.ch/en/finma-public/authorised-institutions-individuals-and-products/",
    "register_format": "HTML",
    "source_urls": "",
-   "page_url": "https://vasptracker.com/en/ch/"
+   "page_url": "https://vasptracker.com/en/ch/",
+   "key_date_our_calculation": ""
   },
   {
    "jurisdiction_code": "tw",
@@ -246,7 +260,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "",
-   "page_url": "https://vasptracker.com/en/tw/"
+   "page_url": "https://vasptracker.com/en/tw/",
+   "key_date_our_calculation": ""
   },
   {
    "jurisdiction_code": "tr",
@@ -262,7 +277,8 @@
    "official_register_url": "https://spk.gov.tr/kurumlar/kripto-varlik-hizmet-saglayicilar/faaliyette-bulunanlar-listesi",
    "register_format": "HTML",
    "source_urls": "",
-   "page_url": "https://vasptracker.com/en/tr/"
+   "page_url": "https://vasptracker.com/en/tr/",
+   "key_date_our_calculation": ""
   },
   {
    "jurisdiction_code": "ua",
@@ -278,7 +294,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "",
-   "page_url": "https://vasptracker.com/en/ua/"
+   "page_url": "https://vasptracker.com/en/ua/",
+   "key_date_our_calculation": ""
   },
   {
    "jurisdiction_code": "br",
@@ -294,7 +311,8 @@
    "official_register_url": "https://dadosabertos.bcb.gov.br/dataset/processos-de-autorizacao",
    "register_format": "CSV/API",
    "source_urls": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20BCB&numero=589 | https://normativos.bcb.gov.br/Votos/BCB/2026108/Voto_do_BC_108_2026.pdf",
-   "page_url": "https://vasptracker.com/en/br/"
+   "page_url": "https://vasptracker.com/en/br/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "ng",
@@ -310,7 +328,8 @@
    "official_register_url": "https://sec.gov.ng/documents/1294/ARIP-Framework-for-the-Onboarding-of-VASPs_4624.pdf",
    "register_format": "PDF",
    "source_urls": "https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf",
-   "page_url": "https://vasptracker.com/en/ng/"
+   "page_url": "https://vasptracker.com/en/ng/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "ke",
@@ -326,7 +345,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "https://new.kenyalaw.org/akn/ke/act/2025/20/eng@2025-11-04",
-   "page_url": "https://vasptracker.com/en/ke/"
+   "page_url": "https://vasptracker.com/en/ke/",
+   "key_date_our_calculation": true
   },
   {
    "jurisdiction_code": "uz",
@@ -342,7 +362,8 @@
    "official_register_url": "https://napp.uz/en/pages/erlsp",
    "register_format": "HTML",
    "source_urls": "https://napp.uz/en/pages/erlsp",
-   "page_url": "https://vasptracker.com/en/uz/"
+   "page_url": "https://vasptracker.com/en/uz/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "ae",
@@ -358,7 +379,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "https://rulebook.centralbank.ae/en/rulebook/article-184-reconciliation-positions",
-   "page_url": "https://vasptracker.com/en/ae/"
+   "page_url": "https://vasptracker.com/en/ae/",
+   "key_date_our_calculation": true
   },
   {
    "jurisdiction_code": "pk",
@@ -374,7 +396,8 @@
    "official_register_url": "https://www.pvara.gov.pk/faq",
    "register_format": "HTML",
    "source_urls": "https://www.pvara.gov.pk/ | https://pvara.gov.pk/documents/Virtual%20assets%20Act%202026%20passed%20by%20NA.pdf",
-   "page_url": "https://vasptracker.com/en/pk/"
+   "page_url": "https://vasptracker.com/en/pk/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "eu",
@@ -390,23 +413,8 @@
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
    "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2026-06/ESMA75-113276571-1710_Public_Statement_MiCA_transitional_period_ends.pdf",
-   "page_url": "https://vasptracker.com/en/eu/"
-  },
-  {
-   "jurisdiction_code": "be",
-   "jurisdiction": "Belgium",
-   "region": "Europe",
-   "regulator": "FSMA / National Bank of Belgium (NBB)",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "status": "in_force",
-   "next_or_last_key_date": "2026-07-01",
-   "event_type": "transition_end",
-   "days_left_at_build": "",
-   "pending_note": "",
-   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
-   "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/be/"
+   "page_url": "https://vasptracker.com/en/eu/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "bg",
@@ -421,8 +429,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/bg/"
+   "source_urls": "https://www.fsc.bg/ot-1-yuli-samo-liczenziranite-kompanii-mogat-da-predlagat-kriptoaktivi-na-teritoriyata-na-es/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/bg/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "cy",
@@ -437,8 +446,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/cy/"
+   "source_urls": "https://www.cysec.gov.cy/CMSPages/GetFile.aspx?guid=101f6018-4cb6-40f0-97c0-321a2e6f56af | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/cy/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "cz",
@@ -453,8 +463,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/cz/"
+   "source_urls": "https://www.cnb.cz/cs/cnb-news/aktuality/Upozorneni-Ceske-narodni-banky-Konec-prechodneho-obdobi-podle-narizeni-MiCA-k1.7.2026/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/cz/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "dk",
@@ -469,8 +480,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/dk/"
+   "source_urls": "https://www.finanstilsynet.dk/finansielle-temaer/fintech/finanstilsynets-praksis-paa-markedet-for-kryptoaktiver | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/dk/",
+   "key_date_our_calculation": true
   },
   {
    "jurisdiction_code": "ee",
@@ -485,8 +497,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/ee/"
+   "source_urls": "https://www.fi.ee/et/uudised/kruptoettevotetel-loppeb-suvel-uleminekuperiood | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/ee/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "es",
@@ -501,8 +514,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf | https://www.cnmv.es/portal/mica/regulacion-criptoactivos?lang=es | https://www.cnmv.es/webservices/verdocumento/ver?t=%7Be9effe73-ba00-4058-9ace-e88d39468cd4%7D",
-   "page_url": "https://vasptracker.com/en/es/"
+   "source_urls": "https://www.cnmv.es/portal/mica/regulacion-criptoactivos?lang=es | https://www.cnmv.es/webservices/verdocumento/ver?t=%7Be9effe73-ba00-4058-9ace-e88d39468cd4%7D | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/es/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "fr",
@@ -517,24 +531,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/fr/"
-  },
-  {
-   "jurisdiction_code": "gr",
-   "jurisdiction": "Greece",
-   "region": "Europe",
-   "regulator": "Hellenic Capital Market Commission (HCMC) / Bank of Greece",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "status": "in_force",
-   "next_or_last_key_date": "2026-07-01",
-   "event_type": "transition_end",
-   "days_left_at_build": "",
-   "pending_note": "",
-   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
-   "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/gr/"
+   "source_urls": "https://www.amf-france.org/fr/actualites-publications/actualites/lamf-rappelle-que-la-periode-transitoire-pour-les-psan-pour-continuer-de-fournir-des-services-sur | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/fr/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "hr",
@@ -549,24 +548,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/hr/"
-  },
-  {
-   "jurisdiction_code": "it",
-   "jurisdiction": "Italy",
-   "region": "Europe",
-   "regulator": "CONSOB / Banca d'Italia",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "status": "in_force",
-   "next_or_last_key_date": "2026-07-01",
-   "event_type": "transition_end",
-   "days_left_at_build": "",
-   "pending_note": "",
-   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
-   "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/it/"
+   "source_urls": "https://www.hanfa.hr/news/provision-of-crypto-asset-services-from-1-july-2026-crypto-licence-and-registration-in-hanfa-registers-mandatory-for-providers-consumers-urged-to-exercise-caution/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/hr/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "lu",
@@ -581,24 +565,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/lu/"
-  },
-  {
-   "jurisdiction_code": "mt",
-   "jurisdiction": "Malta",
-   "region": "Europe",
-   "regulator": "Malta Financial Services Authority (MFSA)",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "status": "in_force",
-   "next_or_last_key_date": "2026-07-01",
-   "event_type": "transition_end",
-   "days_left_at_build": "",
-   "pending_note": "",
-   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
-   "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/mt/"
+   "source_urls": "https://www.cssf.lu/en/2026/07/mica-transition-period-for-virtual-asset-service-providers-ended-on-1-july-2026/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/lu/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "pt",
@@ -613,8 +582,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/pt/"
+   "source_urls": "https://diariodarepublica.pt/dr/detalhe/lei/69-2025-992098939 | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3968X0001&ficha=1&nid=3968&nversao=&pagina=1&so_miolo=&tabela=leis | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/pt/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "ro",
@@ -629,8 +599,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/ro/"
+   "source_urls": "https://www.asfromania.ro/ro/a/3502/anunt-esma-privind-incetarea-perioadei-tranzitorii-prevazute-de-regulamentul-mica | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/ro/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "li",
@@ -646,7 +617,8 @@
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
    "source_urls": "https://www.fma-li.li/de/aufsicht-regulierung/fintech/micar | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/li/"
+   "page_url": "https://vasptracker.com/en/li/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "is",
@@ -662,7 +634,76 @@
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
    "source_urls": "https://sedlabanki.is/frettir-og-utgefid-efni/grein/oheimilt-er-ad-veita-thjonustu-med-syndareignir-an-starfsleyfis-fra-og-med-1-juli-2026",
-   "page_url": "https://vasptracker.com/en/is/"
+   "page_url": "https://vasptracker.com/en/is/",
+   "key_date_our_calculation": false
+  },
+  {
+   "jurisdiction_code": "be",
+   "jurisdiction": "Belgium",
+   "region": "Europe",
+   "regulator": "FSMA / National Bank of Belgium (NBB)",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "status": "in_force",
+   "next_or_last_key_date": "2026-06-30",
+   "event_type": "transition_end",
+   "days_left_at_build": "",
+   "pending_note": "",
+   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+   "register_format": "CSV",
+   "source_urls": "https://www.fsma.be/fr/news/prestataires-de-services-sur-crypto-actifs-fin-de-la-periode-transitoire | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/be/",
+   "key_date_our_calculation": false
+  },
+  {
+   "jurisdiction_code": "gr",
+   "jurisdiction": "Greece",
+   "region": "Europe",
+   "regulator": "Hellenic Capital Market Commission (HCMC) / Bank of Greece",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "status": "in_force",
+   "next_or_last_key_date": "2026-06-30",
+   "event_type": "transition_end",
+   "days_left_at_build": "",
+   "pending_note": "",
+   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+   "register_format": "CSV",
+   "source_urls": "https://www.taxheaven.gr/law/5193/2025/arthro/125 | https://www.taxheaven.gr/law/5259/2025/arthro/204 | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/gr/",
+   "key_date_our_calculation": false
+  },
+  {
+   "jurisdiction_code": "it",
+   "jurisdiction": "Italy",
+   "region": "Europe",
+   "regulator": "CONSOB / Banca d'Italia",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "status": "in_force",
+   "next_or_last_key_date": "2026-06-30",
+   "event_type": "transition_end",
+   "days_left_at_build": "",
+   "pending_note": "",
+   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+   "register_format": "CSV",
+   "source_urls": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=25A04549&art.dataPubblicazioneGazzetta=2025-08-09&art.flagTipoArticolo=0&art.idArticolo=10&art.idGruppo=2&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1 | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/it/",
+   "key_date_our_calculation": false
+  },
+  {
+   "jurisdiction_code": "mt",
+   "jurisdiction": "Malta",
+   "region": "Europe",
+   "regulator": "Malta Financial Services Authority (MFSA)",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "status": "in_force",
+   "next_or_last_key_date": "2026-06-30",
+   "event_type": "transition_end",
+   "days_left_at_build": "",
+   "pending_note": "",
+   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+   "register_format": "CSV",
+   "source_urls": "https://www.mfsa.mt/wp-content/uploads/2026/06/Dear-CEO-Letter-VFA-Licence-and-Transition-to-CASP-under-the-Markets-in-Crypto-Assets-Act-MiCA-Act.pdf | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/mt/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "no",
@@ -678,7 +719,8 @@
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
    "source_urls": "https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2025/utvidelse-av-overgangsordningen-etter-kryptoeiendelsloven/ | https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/uttalelse-om-utlopet-av-overgangsordningen-etter-kryptoeiendelsloven-mica",
-   "page_url": "https://vasptracker.com/en/no/"
+   "page_url": "https://vasptracker.com/en/no/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "kg",
@@ -694,7 +736,8 @@
    "official_register_url": "https://nava.gov.kg/registries",
    "register_format": "HTML",
    "source_urls": "https://nava.gov.kg/npa",
-   "page_url": "https://vasptracker.com/en/kg/"
+   "page_url": "https://vasptracker.com/en/kg/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "za",
@@ -710,7 +753,8 @@
    "official_register_url": "https://www.fsca.co.za/_api/cr3ad_regulatoryframes(94942cc4-0238-f111-88b3-000d3a64fb06)/cr3ad_document/$value",
    "register_format": "PDF",
    "source_urls": "https://www.fsca.co.za/_api/cr3ad_newses(d1c95f7a-9b38-f111-88b4-7c1e5277e2b1)/cr3ad_document/$value",
-   "page_url": "https://vasptracker.com/en/za/"
+   "page_url": "https://vasptracker.com/en/za/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "de",
@@ -719,14 +763,15 @@
    "regulator": "BaFin",
    "regime": "MiCA · Kryptomärkteaufsichtsgesetz (KMAG)",
    "status": "in_force",
-   "next_or_last_key_date": "2025-12-30",
+   "next_or_last_key_date": "2025-12-31",
    "event_type": "transition_end",
    "days_left_at_build": "",
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf | https://www.gesetze-im-internet.de/kmag/__50.html",
-   "page_url": "https://vasptracker.com/en/de/"
+   "source_urls": "https://www.gesetze-im-internet.de/kmag/__50.html | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/de/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "at",
@@ -735,14 +780,32 @@
    "regulator": "Finanzmarktaufsicht (FMA)",
    "regime": "MiCA · Regulation (EU) 2023/1114",
    "status": "in_force",
-   "next_or_last_key_date": "2025-12-30",
+   "next_or_last_key_date": "2025-12-31",
    "event_type": "transition_end",
    "days_left_at_build": "",
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/at/"
+   "source_urls": "https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40275756/NOR40275756.pdf | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/at/",
+   "key_date_our_calculation": false
+  },
+  {
+   "jurisdiction_code": "lt",
+   "jurisdiction": "Lithuania",
+   "region": "Europe",
+   "regulator": "Bank of Lithuania",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "status": "in_force",
+   "next_or_last_key_date": "2025-12-31",
+   "event_type": "transition_end",
+   "days_left_at_build": "",
+   "pending_note": "",
+   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+   "register_format": "CSV",
+   "source_urls": "https://www.lb.lt/en/markets-in-crypto-assets | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/lt/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "ie",
@@ -757,24 +820,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/ie/"
-  },
-  {
-   "jurisdiction_code": "lt",
-   "jurisdiction": "Lithuania",
-   "region": "Europe",
-   "regulator": "Bank of Lithuania",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "status": "in_force",
-   "next_or_last_key_date": "2025-12-30",
-   "event_type": "transition_end",
-   "days_left_at_build": "",
-   "pending_note": "",
-   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
-   "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/lt/"
+   "source_urls": "https://www.irishstatutebook.ie/eli/2024/si/607/made/en/html | https://www.centralbank.ie/regulation/markets-in-crypto-assets-regulation | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/ie/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "sk",
@@ -789,8 +837,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/sk/"
+   "source_urls": "https://nbs.sk/aktuality/kryptoaktiva-koniec-prechodneho-obdobia-a-nove-pravidla-od-30-12-2025/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/sk/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "se",
@@ -805,8 +854,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/se/"
+   "source_urls": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20241159-med-kompletterande-bestammelser_sfs-2024-1159/ | https://www.fi.se/sv/regler/hitta-regler/betalningar/kryptotillgangar/mica-forordningen/ | https://www.fi.se/sv/publicerat/nyheter/2026/kryptobolag-utan-tillstand-ska-avveckla-sin-verksamhet-i-eu/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/se/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "vn",
@@ -822,7 +872,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "https://ssc.gov.vn/cs/idcplg?allowInterrupt=1&dDocName=APPSSCGOVVN1620162698&dID=170615&filename=Resolution+No.05.pdf&IdcService=GET_FILE",
-   "page_url": "https://vasptracker.com/en/vn/"
+   "page_url": "https://vasptracker.com/en/vn/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "ph",
@@ -838,7 +889,25 @@
    "official_register_url": "https://www.bsp.gov.ph/Lists/Directories/Attachments/19/VASP.pdf",
    "register_format": "PDF",
    "source_urls": "https://www.bsp.gov.ph/Regulations/Issuances/2025/M-2025-031.pdf",
-   "page_url": "https://vasptracker.com/en/ph/"
+   "page_url": "https://vasptracker.com/en/ph/",
+   "key_date_our_calculation": false
+  },
+  {
+   "jurisdiction_code": "si",
+   "jurisdiction": "Slovenia",
+   "region": "Europe",
+   "regulator": "Agencija za trg vrednostnih papirjev (ATVP)",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "status": "in_force",
+   "next_or_last_key_date": "2025-07-01",
+   "event_type": "transition_end",
+   "days_left_at_build": "",
+   "pending_note": "",
+   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
+   "register_format": "CSV",
+   "source_urls": "https://pisrs.si/pregledPredpisa?id=ZAKO8913 | https://www.a-tvp.si/zakljucek-prehodnega-obdobja-po-uredbi-mica-in-zakonu-o-izvajanju-uredbe-eu-o-trgu-kriptosredstev-poziv-k-spostovanju-zahtev-glede-oglasevanja/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/si/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "sg",
@@ -854,7 +923,8 @@
    "official_register_url": "https://eservices.mas.gov.sg/fid",
    "register_format": "HTML",
    "source_urls": "https://www.mas.gov.sg/news/media-releases/2025/mas-clarifies-regulatory-regime-for-digital-token-service-providers/",
-   "page_url": "https://vasptracker.com/en/sg/"
+   "page_url": "https://vasptracker.com/en/sg/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "fi",
@@ -869,8 +939,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/fi/"
+   "source_urls": "https://www.finanssivalvonta.fi/tiedotteet-ja-julkaisut/verkkouutiset/2025/virtuaalivaluutan-tarjoajia-koskeva-kansallinen-siirtymaaika-paattyi-30.6.2025--tietoa-kuluttajille-ja-sijoittajille | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/fi/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "hu",
@@ -885,8 +956,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/hu/"
+   "source_urls": "https://net.jogtar.hu/getpdf?docid=A2400007.TV&targetdate=20250701 | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/hu/",
+   "key_date_our_calculation": true
   },
   {
    "jurisdiction_code": "lv",
@@ -901,8 +973,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/lv/"
+   "source_urls": "https://likumi.lv/ta/id/353012-kriptoaktivu-pakalpojumu-likums | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/lv/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "nl",
@@ -917,24 +990,9 @@
    "pending_note": "",
    "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
    "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/nl/"
-  },
-  {
-   "jurisdiction_code": "si",
-   "jurisdiction": "Slovenia",
-   "region": "Europe",
-   "regulator": "Agencija za trg vrednostnih papirjev (ATVP)",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "status": "in_force",
-   "next_or_last_key_date": "2025-06-30",
-   "event_type": "transition_end",
-   "days_left_at_build": "",
-   "pending_note": "",
-   "official_register_url": "https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/markets-crypto-assets-regulation-mica",
-   "register_format": "CSV",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "page_url": "https://vasptracker.com/en/si/"
+   "source_urls": "https://www.afm.nl/nl-nl/sector/actueel/2024/december/sb-start-micar | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "page_url": "https://vasptracker.com/en/nl/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "ar",
@@ -950,7 +1008,8 @@
    "official_register_url": "",
    "register_format": "HTML",
    "source_urls": "https://www.argentina.gob.ar/normativa/nacional/resoluci%C3%B3n-1058-2025-410635/texto",
-   "page_url": "https://vasptracker.com/en/ar/"
+   "page_url": "https://vasptracker.com/en/ar/",
+   "key_date_our_calculation": true
   },
   {
    "jurisdiction_code": "ky",
@@ -966,7 +1025,8 @@
    "official_register_url": "https://www.cima.ky/search-entities-cima",
    "register_format": "HTML",
    "source_urls": "https://www.cima.ky/amendments-to-the-virtual-asset-service-providers-act-effective-1-april-2025",
-   "page_url": "https://vasptracker.com/en/ky/"
+   "page_url": "https://vasptracker.com/en/ky/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "id",
@@ -982,7 +1042,8 @@
    "official_register_url": "https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Documents/Pages/OJK-Terbitkan-Whitelist-Penyelenggara-Perdagangan-Aset-Keuangan-Digital-Dan-Aset-Kripto-Berizin/SP%20226%20OJK%20Terbitkan%20Whitelist%20Penyelenggara%20Perdagangan%20Aset%20Keuangan%20Digital%20dan%20Aset%20Kripto%20Berizin.pdf",
    "register_format": "PDF",
    "source_urls": "https://ojk.go.id/id/regulasi/Pages/POJK-27-2024-AKD-AK.aspx",
-   "page_url": "https://vasptracker.com/en/id/"
+   "page_url": "https://vasptracker.com/en/id/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "sc",
@@ -998,7 +1059,8 @@
    "official_register_url": "https://fsaseychelles.sc/regulated-entities",
    "register_format": "HTML",
    "source_urls": "https://fsaseychelles.sc/media/regupdates/Press_Release_-_End_of_Transitional_Period_under_VASP_Act.pdf",
-   "page_url": "https://vasptracker.com/en/sc/"
+   "page_url": "https://vasptracker.com/en/sc/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "bs",
@@ -1014,7 +1076,8 @@
    "official_register_url": "https://scb.gov.bs/wp-content/uploads/2026/05/DARE-Firms-as-at-30-April-2026-1.pdf",
    "register_format": "PDF",
    "source_urls": "https://scb.gov.bs/wp-content/uploads/2025/11/Gazetted-Digital-Assets-and-Registered-Exchanges-Act-2024.pdf",
-   "page_url": "https://vasptracker.com/en/bs/"
+   "page_url": "https://vasptracker.com/en/bs/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "kz",
@@ -1030,7 +1093,8 @@
    "official_register_url": "https://publicreg.myafsa.com/dasp/",
    "register_format": "HTML",
    "source_urls": "https://aifc.kz/wp-content/uploads/2024/06/aifc-rules-on-digital-asset-activities-daa_v2_01.01.2025_gk_zs-1-1.pdf",
-   "page_url": "https://vasptracker.com/en/kz/"
+   "page_url": "https://vasptracker.com/en/kz/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "in",
@@ -1046,7 +1110,8 @@
    "official_register_url": "https://sansad.in/getFile/loksabhaquestions/annex/187/AU5805_lMTYNK.pdf?source=pqals",
    "register_format": "PDF",
    "source_urls": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1991372&lang=2&reg=48",
-   "page_url": "https://vasptracker.com/en/in/"
+   "page_url": "https://vasptracker.com/en/in/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "vg",
@@ -1062,7 +1127,8 @@
    "official_register_url": "https://www.bvifsc.vg/regulated-entities",
    "register_format": "HTML",
    "source_urls": "https://www.bvifsc.vg/news/industry-updates/virtual-assets-service-providers-act-2022",
-   "page_url": "https://vasptracker.com/en/vg/"
+   "page_url": "https://vasptracker.com/en/vg/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "na",
@@ -1078,7 +1144,8 @@
    "official_register_url": "https://www.bon.com.na/",
    "register_format": "HTML",
    "source_urls": "https://www.bon.com.na/Informations/Media/Media-Releases/2023-Media-Releases/Articles/Media-release-Virtual-Assets-Act.aspx",
-   "page_url": "https://vasptracker.com/en/na/"
+   "page_url": "https://vasptracker.com/en/na/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "gg",
@@ -1094,7 +1161,8 @@
    "official_register_url": "https://www.gfsc.gg/industry-sectors/lending-credit-and-finance",
    "register_format": "HTML",
    "source_urls": "https://www.gfsc.gg/industry-sectors/lending-credit-and-finance",
-   "page_url": "https://vasptracker.com/en/gg/"
+   "page_url": "https://vasptracker.com/en/gg/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "ge",
@@ -1110,7 +1178,8 @@
    "official_register_url": "https://nbg.gov.ge/en/faq/125",
    "register_format": "HTML",
    "source_urls": "https://nbg.gov.ge/en/media/news/the-national-bank-of-georgia-has-approved-the-rule-of-virtual-asset-service-provider-regis | https://nbg.gov.ge/en/faq/125",
-   "page_url": "https://vasptracker.com/en/ge/"
+   "page_url": "https://vasptracker.com/en/ge/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "je",
@@ -1126,7 +1195,8 @@
    "official_register_url": "https://www.jerseyfsc.org/industry/vasp-entities/",
    "register_format": "HTML",
    "source_urls": "https://www.jerseyfsc.org/news-and-events/virtual-asset-service-providers/",
-   "page_url": "https://vasptracker.com/en/je/"
+   "page_url": "https://vasptracker.com/en/je/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "sv",
@@ -1142,7 +1212,8 @@
    "official_register_url": "https://registrobitcoin.bcr.gob.sv/web/proveedores-registrados",
    "register_format": "HTML",
    "source_urls": "https://www.jurisprudencia.gob.sv/DocumentosBoveda/D/2/2020-2029/2023/01/F558F.PDF",
-   "page_url": "https://vasptracker.com/en/sv/"
+   "page_url": "https://vasptracker.com/en/sv/",
+   "key_date_our_calculation": true
   },
   {
    "jurisdiction_code": "mu",
@@ -1158,7 +1229,8 @@
    "official_register_url": "https://www.fscmauritius.org/en/supervision/register-of-licensees",
    "register_format": "HTML",
    "source_urls": "https://www.fscmauritius.org/media/119931/communique-proclamation-of-the-virtual-asset-and-initial-token-offering-services-act-2021.pdf",
-   "page_url": "https://vasptracker.com/en/mu/"
+   "page_url": "https://vasptracker.com/en/mu/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "rs",
@@ -1174,7 +1246,8 @@
    "official_register_url": "https://nbs.rs/sr/ciljevi-i-funkcije/nadzor-nad-finansijskim-institucijama/digital-imo/reg_di",
    "register_format": "HTML",
    "source_urls": "https://www.nbs.rs/export/sites/NBS_site/documents/propisi/zakoni/digitalna_imovina.pdf",
-   "page_url": "https://vasptracker.com/en/rs/"
+   "page_url": "https://vasptracker.com/en/rs/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "gi",
@@ -1190,7 +1263,8 @@
    "official_register_url": "https://www.fsc.gi/regulated-entities",
    "register_format": "HTML",
    "source_urls": "https://gibraltarlaws.gov.gi/legislations/financial-services-dlt-providers-and-vaa-providers-regulations-2020-4774",
-   "page_url": "https://vasptracker.com/en/gi/"
+   "page_url": "https://vasptracker.com/en/gi/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "mx",
@@ -1206,7 +1280,8 @@
    "official_register_url": "",
    "register_format": "—",
    "source_urls": "https://www.banxico.org.mx/marco-normativo/normativa-emitida-por-el-banco-de-mexico/circular-4-2019/%7B8D7769AF-03F6-701A-68AA-EF25A73AD035%7D.pdf",
-   "page_url": "https://vasptracker.com/en/mx/"
+   "page_url": "https://vasptracker.com/en/mx/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "bh",
@@ -1222,7 +1297,8 @@
    "official_register_url": "https://www.cbb.gov.bh/licensing-directory/",
    "register_format": "HTML",
    "source_urls": "https://www.cbb.gov.bh/media-center/central-bank-of-bahrain-issues-final-rules-on-crypto-asset-services-and-crypto-asset-exchanges/",
-   "page_url": "https://vasptracker.com/en/bh/"
+   "page_url": "https://vasptracker.com/en/bh/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "my",
@@ -1238,7 +1314,8 @@
    "official_register_url": "https://www.sc.com.my/regulation/guidelines/recognizedmarkets/list-of-registered-digital-asset-exchanges",
    "register_format": "HTML",
    "source_urls": "https://www.sc.com.my/regulation/guidelines/recognizedmarkets/list-of-registered-digital-asset-exchanges | https://www.sc.com.my/resources/media/media-release/sc-to-regulate-offering-and-trading-of-digital-assets",
-   "page_url": "https://vasptracker.com/en/my/"
+   "page_url": "https://vasptracker.com/en/my/",
+   "key_date_our_calculation": false
   },
   {
    "jurisdiction_code": "bm",
@@ -1254,7 +1331,8 @@
    "official_register_url": "https://www.bma.bm/regulated-entities",
    "register_format": "HTML",
    "source_urls": "https://www.bermudalaws.bm/Laws/Consolidated%20Law/2018/Digital%20Asset%20Business%20Act%202018 | https://www.bma.bm/documents-centre/documents-news-and-press-releases/general-all-sectors/bma-releases-licensing-requirements-for-digital-asset-businesses | https://www.applebyglobal.com/publications/bermuda-welcomes-digital-asset-business-act-2018/",
-   "page_url": "https://vasptracker.com/en/bm/"
+   "page_url": "https://vasptracker.com/en/bm/",
+   "key_date_our_calculation": false
   }
  ],
  "events": [
@@ -2077,10 +2155,10 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The MiCA transitional period (Art. 143(3)) ends. Because no implementing act is in force, no Polish authority, including the KNF, has been designated as competent authority, so CASP authorisations cannot be obtained in Poland.",
+   "description_en": "The MiCA transitional period (Art. 143(3)) ends. The 6 months Poland notified to ESMA were never written into law, so the MiCA end date applies directly. IAS Katowice, the authority for the virtual-currency register: 'z dniem 1 lipca 2026 r. kończy się okres przejściowy' (the transitional period ends on 1 July 2026). Because no implementing act is in force, no Polish authority, including the KNF, has been designated as competent authority, so CASP authorisations cannot be obtained in Poland.",
    "source_type": "official",
-   "source_urls": "https://nuk.knf.gov.pl/komunikacja/komunikaty?articleId=98874&p_id=18",
-   "source_types": "official",
+   "source_urls": "https://www.gov.pl/web/ias-katowice/informacja-dla-klientow-podmiotow-wpisanych-do-rejestru-dzialalnosci-z-zakresu-walut-wirtualnych | https://www.gov.pl/attachment/5fe5c187-2f62-478f-a0df-3f5ef3e7d898 | https://nuk.knf.gov.pl/komunikacja/komunikaty?articleId=98874&p_id=18 | https://eur-lex.europa.eu/eli/reg/2023/1114/oj",
+   "source_types": "official | official | official | official",
    "page_url": "https://vasptracker.com/en/pl/"
   },
   {
@@ -2497,7 +2575,7 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": true,
-   "description_en": "End of the one-year period for persons subject to the law to bring their positions into line (Art. 184). The CBUAE Board may extend it; we found no published general extension (checked 21 Oct 2026).",
+   "description_en": "End of the one-year period for persons subject to the law to bring their positions into line (Art. 184). One year from the law taking effect on 16 September 2025 is 16 September 2026 (VASP Tracker calculation). The CBUAE Board may extend it; we found no published general extension (checked 21 Oct 2026).",
    "source_type": "official",
    "source_urls": "https://rulebook.centralbank.ae/en/rulebook/article-184-reconciliation-positions",
    "source_types": "official",
@@ -2654,36 +2732,6 @@
    "page_url": "https://vasptracker.com/en/eu/"
   },
   {
-   "jurisdiction_code": "be",
-   "jurisdiction": "Belgium",
-   "regulator": "FSMA / National Bank of Belgium (NBB)",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2024-12-30",
-   "event_type": "in_force",
-   "key_date": false,
-   "our_calculation": false,
-   "description_en": "MiCA applies in full, including CASP authorisation. FSMA / National Bank of Belgium (NBB) is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/be/"
-  },
-  {
-   "jurisdiction_code": "be",
-   "jurisdiction": "Belgium",
-   "regulator": "FSMA / National Bank of Belgium (NBB)",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2026-07-01",
-   "event_type": "transition_end",
-   "key_date": true,
-   "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/be/"
-  },
-  {
    "jurisdiction_code": "bg",
    "jurisdiction": "Bulgaria",
    "regulator": "Financial Supervision Commission (FSC) / Bulgarian National Bank",
@@ -2722,10 +2770,10 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "Bulgaria's transitional period ends. The FSC: 'На 1 юли 2026 г. приключва преходният период' (the transitional period ends on 1 July 2026).",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.fsc.bg/ot-1-yuli-samo-liczenziranite-kompanii-mogat-da-predlagat-kriptoaktivi-na-teritoriyata-na-es/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/bg/"
   },
   {
@@ -2752,10 +2800,10 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "Cyprus's transitional period ends. CySEC: existing providers 'may continue to do so until 1 July 2026'.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.cysec.gov.cy/CMSPages/GetFile.aspx?guid=101f6018-4cb6-40f0-97c0-321a2e6f56af | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/cy/"
   },
   {
@@ -2797,10 +2845,10 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "Czechia's transitional period ends. The CNB: '1. července 2026 skončí přechodné období' (the transitional period ends on 1 July 2026).",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.cnb.cz/cs/cnb-news/aktuality/Upozorneni-Ceske-narodni-banky-Konec-prechodneho-obdobi-podle-narizeni-MiCA-k1.7.2026/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/cz/"
   },
   {
@@ -2841,11 +2889,11 @@
    "date": "2026-07-01",
    "event_type": "transition_end",
    "key_date": true,
-   "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "our_calculation": true,
+   "description_en": "End of Denmark's transitional period. The Danish FSA describes it only as 'i en periode på op til 18 måneder' (up to 18 months) without a day; 1 July 2026 is the Art. 143(3) MiCA cap (VASP Tracker derivation).",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.finanstilsynet.dk/finansielle-temaer/fintech/finanstilsynets-praksis-paa-markedet-for-kryptoaktiver | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/dk/"
   },
   {
@@ -2872,10 +2920,10 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "Estonia's transitional period ends. The EFSA: 'Kuni käesoleva aasta 1. juulini võivad …' (existing providers may operate until 1 July of this year).",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.fi.ee/et/uudised/kruptoettevotetel-loppeb-suvel-uleminekuperiood | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/ee/"
   },
   {
@@ -2902,9 +2950,9 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "Spain's transitional period ends. The CNMV: 'El periodo transitorio en España finalizará el 1 de julio de 2026'. Since then only CNMV-authorised providers, or providers authorised in another EU state, may operate in Spain.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf | https://www.cnmv.es/portal/mica/regulacion-criptoactivos?lang=es | https://www.cnmv.es/webservices/verdocumento/ver?t=%7Be9effe73-ba00-4058-9ace-e88d39468cd4%7D",
+   "source_urls": "https://www.cnmv.es/portal/mica/regulacion-criptoactivos?lang=es | https://www.cnmv.es/webservices/verdocumento/ver?t=%7Be9effe73-ba00-4058-9ace-e88d39468cd4%7D | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
    "source_types": "official | official | official | official",
    "page_url": "https://vasptracker.com/en/es/"
   },
@@ -2932,56 +2980,11 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "France's transitional period for registered PSANs ends. The AMF: the transitional period 'prend fin le 1er juillet 2026'.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.amf-france.org/fr/actualites-publications/actualites/lamf-rappelle-que-la-periode-transitoire-pour-les-psan-pour-continuer-de-fournir-des-services-sur | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/fr/"
-  },
-  {
-   "jurisdiction_code": "gr",
-   "jurisdiction": "Greece",
-   "regulator": "Hellenic Capital Market Commission (HCMC) / Bank of Greece",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2024-12-30",
-   "event_type": "in_force",
-   "key_date": false,
-   "our_calculation": false,
-   "description_en": "MiCA applies in full, including CASP authorisation. Hellenic Capital Market Commission (HCMC) / Bank of Greece is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/gr/"
-  },
-  {
-   "jurisdiction_code": "gr",
-   "jurisdiction": "Greece",
-   "regulator": "Hellenic Capital Market Commission (HCMC) / Bank of Greece",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2026-07-01",
-   "event_type": "transition_end",
-   "key_date": true,
-   "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/gr/"
-  },
-  {
-   "jurisdiction_code": "gr",
-   "jurisdiction": "Greece",
-   "regulator": "Hellenic Capital Market Commission (HCMC) / Bank of Greece",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2026-11-05",
-   "event_type": "law_adopted",
-   "key_date": false,
-   "our_calculation": false,
-   "description_en": "The Hellenic Parliament passes a Ministry of National Economy and Finance bill on the tax treatment and supervision of crypto-assets. It taxes capital gains on crypto-asset transfers at a special 10% rate and gives the HCMC supervisory and technical measures against unlicensed crypto-asset services and other illegal offers made through websites and apps. The final text has not yet been published in the Government Gazette (FEK).",
-   "source_type": "official",
-   "source_urls": "https://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?law_id=21cf1a39-09ed-4b79-9fba-b4f0001d94e6 | https://www.hellenicparliament.gr/UserFiles/c8827c35-4399-4fbb-8ea6-aebdc768f4f7/13456299.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/gr/"
   },
   {
    "jurisdiction_code": "hr",
@@ -3007,56 +3010,11 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "Croatia's transitional period ends. HANFA: 'On 1 July 2026, the transitional period under Regulation (EU) 2023/1114 …' ends; from then a HANFA licence or registration is mandatory.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.hanfa.hr/news/provision-of-crypto-asset-services-from-1-july-2026-crypto-licence-and-registration-in-hanfa-registers-mandatory-for-providers-consumers-urged-to-exercise-caution/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/hr/"
-  },
-  {
-   "jurisdiction_code": "it",
-   "jurisdiction": "Italy",
-   "regulator": "CONSOB / Banca d'Italia",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2024-12-30",
-   "event_type": "in_force",
-   "key_date": false,
-   "our_calculation": false,
-   "description_en": "MiCA applies in full, including CASP authorisation. CONSOB / Banca d'Italia is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/it/"
-  },
-  {
-   "jurisdiction_code": "it",
-   "jurisdiction": "Italy",
-   "regulator": "CONSOB / Banca d'Italia",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2025-12-30",
-   "event_type": "application_deadline",
-   "key_date": false,
-   "our_calculation": false,
-   "description_en": "ESMA's list notes that entities in the Italian VASP register (or their group entities) had to file a MiCA application by 30 December 2025 to benefit from the transitional period.",
-   "source_type": "official",
-   "source_urls": "https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official",
-   "page_url": "https://vasptracker.com/en/it/"
-  },
-  {
-   "jurisdiction_code": "it",
-   "jurisdiction": "Italy",
-   "regulator": "CONSOB / Banca d'Italia",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2026-07-01",
-   "event_type": "transition_end",
-   "key_date": true,
-   "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/it/"
   },
   {
    "jurisdiction_code": "lu",
@@ -3082,41 +3040,11 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "Luxembourg's transitional period for registered VASPs ends. The CSSF: 'On 1 July 2026, an important transition period … ended'.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.cssf.lu/en/2026/07/mica-transition-period-for-virtual-asset-service-providers-ended-on-1-july-2026/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/lu/"
-  },
-  {
-   "jurisdiction_code": "mt",
-   "jurisdiction": "Malta",
-   "regulator": "Malta Financial Services Authority (MFSA)",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2024-12-30",
-   "event_type": "in_force",
-   "key_date": false,
-   "our_calculation": false,
-   "description_en": "MiCA applies in full, including CASP authorisation. Malta Financial Services Authority (MFSA) is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/mt/"
-  },
-  {
-   "jurisdiction_code": "mt",
-   "jurisdiction": "Malta",
-   "regulator": "Malta Financial Services Authority (MFSA)",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2026-07-01",
-   "event_type": "transition_end",
-   "key_date": true,
-   "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/mt/"
   },
   {
    "jurisdiction_code": "pt",
@@ -3142,10 +3070,10 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "Portugal's transitional period ends. Law 69/2025, art. 30(1): providers registered with the Banco de Portugal may continue 'até 1 de julho de 2026' or until MiCA authorisation is granted or refused, whichever comes first.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://diariodarepublica.pt/dr/detalhe/lei/69-2025-992098939 | https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?artigo_id=3968X0001&ficha=1&nid=3968&nversao=&pagina=1&so_miolo=&tabela=leis | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official | official",
    "page_url": "https://vasptracker.com/en/pt/"
   },
   {
@@ -3172,10 +3100,10 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "The 18-month transitional period notified to ESMA ends: firms relying on national law must now hold a MiCA authorisation (Art. 143(3) caps all periods at 1 July 2026).",
+   "description_en": "The transitional period ends in Romania. No Romanian implementing law sets its own date, so the Art. 143(3) MiCA end date applies directly; the ASF notice relays ESMA: the period ends 'la 1 iulie 2026'.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.asfromania.ro/ro/a/3502/anunt-esma-privind-incetarea-perioadei-tranzitorii-prevazute-de-regulamentul-mica | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/ro/"
   },
   {
@@ -3239,6 +3167,156 @@
    "page_url": "https://vasptracker.com/en/is/"
   },
   {
+   "jurisdiction_code": "be",
+   "jurisdiction": "Belgium",
+   "regulator": "FSMA / National Bank of Belgium (NBB)",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2024-12-30",
+   "event_type": "in_force",
+   "key_date": false,
+   "our_calculation": false,
+   "description_en": "MiCA applies in full, including CASP authorisation. FSMA / National Bank of Belgium (NBB) is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
+   "source_type": "official",
+   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
+   "source_types": "official | official",
+   "page_url": "https://vasptracker.com/en/be/"
+  },
+  {
+   "jurisdiction_code": "be",
+   "jurisdiction": "Belgium",
+   "regulator": "FSMA / National Bank of Belgium (NBB)",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2026-06-30",
+   "event_type": "transition_end",
+   "key_date": true,
+   "our_calculation": false,
+   "description_en": "Belgium's transitional period ends: the FSMA says providers relying on it could continue 'jusqu'au 30 juin 2026 au plus tard' (until 30 June 2026 at the latest).",
+   "source_type": "official",
+   "source_urls": "https://www.fsma.be/fr/news/prestataires-de-services-sur-crypto-actifs-fin-de-la-periode-transitoire | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
+   "page_url": "https://vasptracker.com/en/be/"
+  },
+  {
+   "jurisdiction_code": "gr",
+   "jurisdiction": "Greece",
+   "regulator": "Hellenic Capital Market Commission (HCMC) / Bank of Greece",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2024-12-30",
+   "event_type": "in_force",
+   "key_date": false,
+   "our_calculation": false,
+   "description_en": "MiCA applies in full, including CASP authorisation. Hellenic Capital Market Commission (HCMC) / Bank of Greece is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
+   "source_type": "official",
+   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
+   "source_types": "official | official",
+   "page_url": "https://vasptracker.com/en/gr/"
+  },
+  {
+   "jurisdiction_code": "gr",
+   "jurisdiction": "Greece",
+   "regulator": "Hellenic Capital Market Commission (HCMC) / Bank of Greece",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2026-06-30",
+   "event_type": "transition_end",
+   "key_date": true,
+   "our_calculation": false,
+   "description_en": "Greece's transitional period ends. Law 5193/2025 art. 125(1), as amended by Law 5259/2025 art. 204, lets registered providers continue 'έως την 30ή Ιουνίου 2026' (until 30 June 2026). Read from an unofficial consolidation; the HCMC's own notice relays ESMA's 1 July 2026.",
+   "source_type": "official",
+   "source_urls": "https://www.taxheaven.gr/law/5193/2025/arthro/125 | https://www.taxheaven.gr/law/5259/2025/arthro/204 | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "press | press | official | official",
+   "page_url": "https://vasptracker.com/en/gr/"
+  },
+  {
+   "jurisdiction_code": "gr",
+   "jurisdiction": "Greece",
+   "regulator": "Hellenic Capital Market Commission (HCMC) / Bank of Greece",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2026-11-05",
+   "event_type": "law_adopted",
+   "key_date": false,
+   "our_calculation": false,
+   "description_en": "The Hellenic Parliament passes a Ministry of National Economy and Finance bill on the tax treatment and supervision of crypto-assets. It taxes capital gains on crypto-asset transfers at a special 10% rate and gives the HCMC supervisory and technical measures against unlicensed crypto-asset services and other illegal offers made through websites and apps. The final text has not yet been published in the Government Gazette (FEK).",
+   "source_type": "official",
+   "source_urls": "https://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?law_id=21cf1a39-09ed-4b79-9fba-b4f0001d94e6 | https://www.hellenicparliament.gr/UserFiles/c8827c35-4399-4fbb-8ea6-aebdc768f4f7/13456299.pdf",
+   "source_types": "official | official",
+   "page_url": "https://vasptracker.com/en/gr/"
+  },
+  {
+   "jurisdiction_code": "it",
+   "jurisdiction": "Italy",
+   "regulator": "CONSOB / Banca d'Italia",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2024-12-30",
+   "event_type": "in_force",
+   "key_date": false,
+   "our_calculation": false,
+   "description_en": "MiCA applies in full, including CASP authorisation. CONSOB / Banca d'Italia is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
+   "source_type": "official",
+   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
+   "source_types": "official | official",
+   "page_url": "https://vasptracker.com/en/it/"
+  },
+  {
+   "jurisdiction_code": "it",
+   "jurisdiction": "Italy",
+   "regulator": "CONSOB / Banca d'Italia",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2025-12-30",
+   "event_type": "application_deadline",
+   "key_date": false,
+   "our_calculation": false,
+   "description_en": "ESMA's list notes that entities in the Italian VASP register (or their group entities) had to file a MiCA application by 30 December 2025 to benefit from the transitional period.",
+   "source_type": "official",
+   "source_urls": "https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official",
+   "page_url": "https://vasptracker.com/en/it/"
+  },
+  {
+   "jurisdiction_code": "it",
+   "jurisdiction": "Italy",
+   "regulator": "CONSOB / Banca d'Italia",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2026-06-30",
+   "event_type": "transition_end",
+   "key_date": true,
+   "our_calculation": false,
+   "description_en": "Italy's transitional period ends. Art. 45 of Legislative Decree 129/2024, as amended by Decree-Law 95/2025, replaces '30 dicembre 2025' with '30 giugno 2026': providers may continue 'comunque non oltre il 30 giugno 2026' (in any case not after 30 June 2026).",
+   "source_type": "official",
+   "source_urls": "https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticolo?art.codiceRedazionale=25A04549&art.dataPubblicazioneGazzetta=2025-08-09&art.flagTipoArticolo=0&art.idArticolo=10&art.idGruppo=2&art.idSottoArticolo=1&art.idSottoArticolo1=10&art.progressivo=0&art.versione=1 | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
+   "page_url": "https://vasptracker.com/en/it/"
+  },
+  {
+   "jurisdiction_code": "mt",
+   "jurisdiction": "Malta",
+   "regulator": "Malta Financial Services Authority (MFSA)",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2024-12-30",
+   "event_type": "in_force",
+   "key_date": false,
+   "our_calculation": false,
+   "description_en": "MiCA applies in full, including CASP authorisation. Malta Financial Services Authority (MFSA) is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
+   "source_type": "official",
+   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
+   "source_types": "official | official",
+   "page_url": "https://vasptracker.com/en/mt/"
+  },
+  {
+   "jurisdiction_code": "mt",
+   "jurisdiction": "Malta",
+   "regulator": "Malta Financial Services Authority (MFSA)",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2026-06-30",
+   "event_type": "transition_end",
+   "key_date": true,
+   "our_calculation": false,
+   "description_en": "Malta's transitional period ends. The MFSA: the transitional provisions 'as implemented in Article 66 of the Virtual Financial Assets Act, Cap. 590, expire on 30 June 2026'.",
+   "source_type": "official",
+   "source_urls": "https://www.mfsa.mt/wp-content/uploads/2026/06/Dear-CEO-Letter-VFA-Licence-and-Transition-to-CASP-under-the-Markets-in-Crypto-Assets-Act-MiCA-Act.pdf | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
+   "page_url": "https://vasptracker.com/en/mt/"
+  },
+  {
    "jurisdiction_code": "no",
    "jurisdiction": "Norway",
    "regulator": "Finanstilsynet",
@@ -3277,7 +3355,7 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": false,
-   "description_en": "End of the extended transitional period. Providers without MiCA authorisation are expected to wind down in an orderly way.",
+   "description_en": "End of the extended transitional period under § 19 of the Act on crypto-assets, as extended by Finanstilsynet 'fra 30. desember 2025 til 30. juni 2026'. Providers without MiCA authorisation are expected to wind down in an orderly way. ESMA's list (19 May 2026) still shows 12 months.",
    "source_type": "official",
    "source_urls": "https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2025/utvidelse-av-overgangsordningen-etter-kryptoeiendelsloven/ | https://www.finanstilsynet.no/nyhetsarkiv/nyheter/2026/uttalelse-om-utlopet-av-overgangsordningen-etter-kryptoeiendelsloven-mica",
    "source_types": "official | official",
@@ -3363,13 +3441,13 @@
    "jurisdiction": "Germany",
    "regulator": "BaFin",
    "regime": "MiCA · Kryptomärkteaufsichtsgesetz (KMAG)",
-   "date": "2025-12-30",
+   "date": "2025-12-31",
    "event_type": "transition_end",
    "key_date": true,
-   "our_calculation": true,
-   "description_en": "Germany's 12-month transitional period ends (KMAG § 50; 12 months as notified to ESMA, end date by VASP Tracker calculation).",
+   "our_calculation": false,
+   "description_en": "Germany's transitional period ends: under KMAG § 50(2) no. 3, the deemed authorisation of existing providers expires 'spätestens mit Ablauf des 31. Dezember 2025' (at the latest at the end of 31 December 2025). ESMA's list shows 12 months.",
    "source_type": "official",
-   "source_urls": "https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf | https://www.gesetze-im-internet.de/kmag/__50.html",
+   "source_urls": "https://www.gesetze-im-internet.de/kmag/__50.html | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
    "source_types": "official | official",
    "page_url": "https://vasptracker.com/en/de/"
   },
@@ -3393,15 +3471,45 @@
    "jurisdiction": "Austria",
    "regulator": "Finanzmarktaufsicht (FMA)",
    "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2025-12-30",
+   "date": "2025-12-31",
    "event_type": "transition_end",
    "key_date": true,
-   "our_calculation": true,
-   "description_en": "End of the 12-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
+   "our_calculation": false,
+   "description_en": "Austria's transitional period ends: under § 23 MiCA-VVG, providers could continue their services 'bis zum 31. Dezember 2025' (ESMA's list: 12 months).",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40275756/NOR40275756.pdf | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/at/"
+  },
+  {
+   "jurisdiction_code": "lt",
+   "jurisdiction": "Lithuania",
+   "regulator": "Bank of Lithuania",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2024-12-30",
+   "event_type": "in_force",
+   "key_date": false,
+   "our_calculation": false,
+   "description_en": "MiCA applies in full, including CASP authorisation. Bank of Lithuania is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
+   "source_type": "official",
+   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
+   "source_types": "official | official",
+   "page_url": "https://vasptracker.com/en/lt/"
+  },
+  {
+   "jurisdiction_code": "lt",
+   "jurisdiction": "Lithuania",
+   "regulator": "Bank of Lithuania",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2025-12-31",
+   "event_type": "transition_end",
+   "key_date": true,
+   "our_calculation": false,
+   "description_en": "Lithuania's transitional period ends. The Bank of Lithuania: 'a transitional period will remain in effect until 31 December 2025' (extended by the Seimas from the original 1 June 2025).",
+   "source_type": "official",
+   "source_urls": "https://www.lb.lt/en/markets-in-crypto-assets | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
+   "page_url": "https://vasptracker.com/en/lt/"
   },
   {
    "jurisdiction_code": "ie",
@@ -3426,42 +3534,12 @@
    "date": "2025-12-30",
    "event_type": "transition_end",
    "key_date": true,
-   "our_calculation": true,
-   "description_en": "End of the 12-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/ie/"
-  },
-  {
-   "jurisdiction_code": "lt",
-   "jurisdiction": "Lithuania",
-   "regulator": "Bank of Lithuania",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2024-12-30",
-   "event_type": "in_force",
-   "key_date": false,
    "our_calculation": false,
-   "description_en": "MiCA applies in full, including CASP authorisation. Bank of Lithuania is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
+   "description_en": "Ireland's transitional period ends. S.I. No. 607/2024, reg. 20: existing providers 'may continue to do so until 30 December 2025'. (The Central Bank's MiCA page describes it as 12 months ending on 29 December 2025.)",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/lt/"
-  },
-  {
-   "jurisdiction_code": "lt",
-   "jurisdiction": "Lithuania",
-   "regulator": "Bank of Lithuania",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2025-12-30",
-   "event_type": "transition_end",
-   "key_date": true,
-   "our_calculation": true,
-   "description_en": "End of the 12-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/lt/"
+   "source_urls": "https://www.irishstatutebook.ie/eli/2024/si/607/made/en/html | https://www.centralbank.ie/regulation/markets-in-crypto-assets-regulation | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official | official",
+   "page_url": "https://vasptracker.com/en/ie/"
   },
   {
    "jurisdiction_code": "sk",
@@ -3486,11 +3564,11 @@
    "date": "2025-12-30",
    "event_type": "transition_end",
    "key_date": true,
-   "our_calculation": true,
-   "description_en": "End of the 12-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
+   "our_calculation": false,
+   "description_en": "Slovakia's transitional period ends. The NBS: 'Dňa 30.12.2025 sa na Slovensku oficiálne skončilo 12 mesačné prechodné obdobie'.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://nbs.sk/aktuality/kryptoaktiva-koniec-prechodneho-obdobia-a-nove-pravidla-od-30-12-2025/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/sk/"
   },
   {
@@ -3516,11 +3594,11 @@
    "date": "2025-09-30",
    "event_type": "transition_end",
    "key_date": true,
-   "our_calculation": true,
-   "description_en": "End of the 9-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
+   "our_calculation": false,
+   "description_en": "Sweden's statutory transitional date. Transitional provision 4 of Act 2024:1159 lets existing firms continue 'till och med den 30 september 2025'. Firms that applied before 1 October 2025 could continue until their application was finally decided, within the MiCA cap; FI says that period ran out at the end of June 2026.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-20241159-med-kompletterande-bestammelser_sfs-2024-1159/ | https://www.fi.se/sv/regler/hitta-regler/betalningar/kryptotillgangar/mica-forordningen/ | https://www.fi.se/sv/publicerat/nyheter/2026/kryptobolag-utan-tillstand-ska-avveckla-sin-verksamhet-i-eu/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official | official | official",
    "page_url": "https://vasptracker.com/en/se/"
   },
   {
@@ -3629,6 +3707,36 @@
    "page_url": "https://vasptracker.com/en/ph/"
   },
   {
+   "jurisdiction_code": "si",
+   "jurisdiction": "Slovenia",
+   "regulator": "Agencija za trg vrednostnih papirjev (ATVP)",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2024-12-30",
+   "event_type": "in_force",
+   "key_date": false,
+   "our_calculation": false,
+   "description_en": "MiCA applies in full, including CASP authorisation. Agencija za trg vrednostnih papirjev (ATVP) is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
+   "source_type": "official",
+   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
+   "source_types": "official | official",
+   "page_url": "https://vasptracker.com/en/si/"
+  },
+  {
+   "jurisdiction_code": "si",
+   "jurisdiction": "Slovenia",
+   "regulator": "Agencija za trg vrednostnih papirjev (ATVP)",
+   "regime": "MiCA · Regulation (EU) 2023/1114",
+   "date": "2025-07-01",
+   "event_type": "transition_end",
+   "key_date": true,
+   "our_calculation": false,
+   "description_en": "Slovenia's transitional period ends. ZIUTK art. 21(1): existing providers continue 'do 1. julija 2025' (until 1 July 2025) or until authorisation is granted or refused. The ATVP: 'S 1. julijem 2025 se je … zaključilo prehodno obdobje'.",
+   "source_type": "official",
+   "source_urls": "https://pisrs.si/pregledPredpisa?id=ZAKO8913 | https://www.a-tvp.si/zakljucek-prehodnega-obdobja-po-uredbi-mica-in-zakonu-o-izvajanju-uredbe-eu-o-trgu-kriptosredstev-poziv-k-spostovanju-zahtev-glede-oglasevanja/ | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official | official",
+   "page_url": "https://vasptracker.com/en/si/"
+  },
+  {
    "jurisdiction_code": "sg",
    "jurisdiction": "Singapore",
    "regulator": "Monetary Authority of Singapore (MAS)",
@@ -3666,11 +3774,11 @@
    "date": "2025-06-30",
    "event_type": "transition_end",
    "key_date": true,
-   "our_calculation": true,
-   "description_en": "End of the 6-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
+   "our_calculation": false,
+   "description_en": "Finland's transitional period ends. FIN-FSA: 'siirtymäaika päättyi 30.6.2025' (the transitional period ended on 30 June 2025).",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://www.finanssivalvonta.fi/tiedotteet-ja-julkaisut/verkkouutiset/2025/virtuaalivaluutan-tarjoajia-koskeva-kansallinen-siirtymaaika-paattyi-30.6.2025--tietoa-kuluttajille-ja-sijoittajille | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/fi/"
   },
   {
@@ -3697,10 +3805,10 @@
    "event_type": "transition_end",
    "key_date": true,
    "our_calculation": true,
-   "description_en": "End of the 6-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
+   "description_en": "End of Hungary's transitional period. Act VII of 2024 § 16 requires existing providers to comply 'legkésőbb 2025. július 1-jétől' (from 1 July 2025 at the latest), so the last transitional day is 30 June 2025 (VASP Tracker derivation from the statutory date).",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://net.jogtar.hu/getpdf?docid=A2400007.TV&targetdate=20250701 | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "press | official | official",
    "page_url": "https://vasptracker.com/en/hu/"
   },
   {
@@ -3726,11 +3834,11 @@
    "date": "2025-06-30",
    "event_type": "transition_end",
    "key_date": true,
-   "our_calculation": true,
-   "description_en": "End of the 6-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
+   "our_calculation": false,
+   "description_en": "Latvia's transitional period ends. The Crypto-Asset Services Law lets existing providers continue 'līdz 2025. gada 30. jūnijam' (until 30 June 2025); applicants that filed by then may continue until their application is decided.",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
+   "source_urls": "https://likumi.lv/ta/id/353012-kriptoaktivu-pakalpojumu-likums | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
    "page_url": "https://vasptracker.com/en/lv/"
   },
   {
@@ -3756,42 +3864,12 @@
    "date": "2025-06-30",
    "event_type": "transition_end",
    "key_date": true,
-   "our_calculation": true,
-   "description_en": "End of the 6-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/nl/"
-  },
-  {
-   "jurisdiction_code": "si",
-   "jurisdiction": "Slovenia",
-   "regulator": "Agencija za trg vrednostnih papirjev (ATVP)",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2024-12-30",
-   "event_type": "in_force",
-   "key_date": false,
    "our_calculation": false,
-   "description_en": "MiCA applies in full, including CASP authorisation. Agencija za trg vrednostnih papirjev (ATVP) is the competent authority for crypto-asset service providers on ESMA's Article 93 list.",
+   "description_en": "The Dutch transitional period ends. The AFM: existing providers 'per 30 juni 2025 een vergunning of notificatie moeten hebben' (must hold a licence or notification as of 30 June 2025).",
    "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_Competent_Authorities_notified_to_ESMA_under_MiCA.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/si/"
-  },
-  {
-   "jurisdiction_code": "si",
-   "jurisdiction": "Slovenia",
-   "regulator": "Agencija za trg vrednostnih papirjev (ATVP)",
-   "regime": "MiCA · Regulation (EU) 2023/1114",
-   "date": "2025-06-30",
-   "event_type": "transition_end",
-   "key_date": true,
-   "our_calculation": true,
-   "description_en": "End of the 6-month transitional period notified to ESMA, counted from 30 December 2024 (VASP Tracker calculation; the exact end date is set in national law).",
-   "source_type": "official",
-   "source_urls": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
-   "source_types": "official | official",
-   "page_url": "https://vasptracker.com/en/si/"
+   "source_urls": "https://www.afm.nl/nl-nl/sector/actueel/2024/december/sb-start-micar | https://eur-lex.europa.eu/eli/reg/2023/1114/oj | https://www.esma.europa.eu/sites/default/files/2024-12/List_of_MiCA_grandfathering_periods_art._143_3.pdf",
+   "source_types": "official | official | official",
+   "page_url": "https://vasptracker.com/en/nl/"
   },
   {
    "jurisdiction_code": "ar",
