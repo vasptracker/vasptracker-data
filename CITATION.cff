@@ -13,7 +13,7 @@ license: CC-BY-4.0
 url: "https://vasptracker.com/"
 repository-code: "https://github.com/vasptracker/vasptracker-data"
 date-released: 2026-11-18
-version: "1.1.0"
+version: "1.2.0"
 keywords:
   - crypto regulation
   - VASP
