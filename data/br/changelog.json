@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-19",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 317253,
+  "nome": "BRASIL 8 SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS LTDA",
+  "from": "Em Exame",
+  "to": "Em Agenda"
+ },
+ {
   "date": "2026-11-18",
   "snapshot": "situacao",
   "type": "status_changed",

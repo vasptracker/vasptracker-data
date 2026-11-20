@@ -2,19 +2,19 @@
  "license": "CC BY 4.0",
  "attribution": "VASP Tracker (vasptracker.com)",
  "meta": {
-  "generated_at": "2026-11-18T08:31:47-03:00",
-  "run_date": "2026-11-18",
+  "generated_at": "2026-11-19T20:43:12-03:00",
+  "run_date": "2026-11-20",
   "latest_snapshot": "2026-10",
   "latest_data_base": "31/10/2026",
   "snapshots": 33,
   "snapshot_errors": {
    "2024-08": "BCB OData returns HTTP 500 for this data-base (server-side; month cannot be read in full)"
   },
-  "pix_list_date": "20261118",
+  "pix_list_date": "20261119",
   "authorized_spsav_count": 0,
   "institutions_rows": {
-   "SedesSociedades": 705,
-   "SedesBancoComMultCE": 154
+   "SedesSociedades": 706,
+   "SedesBancoComMultCE": 153
   }
  },
  "data": [
@@ -446,7 +446,7 @@
    "legal_entities": "Brasil Bitcoin Serviços Digitais Ltda. (29.519.837/0001-23); Brasil 8 Sociedade Prestadora de Serviços de Ativos Virtuais (41.043.469/0001-95)",
    "cnpj_roots": "29519837;41043469",
    "spsav_process_numbers": "317253",
-   "bcb_situacao": "Em Exame",
+   "bcb_situacao": "Em Agenda",
    "other_bcb_registrations": "",
    "public_stance": "says_applying",
    "statement_pt": "Os termos de uso da Brasil Bitcoin identificam a Brasil 8 Sociedade Prestadora de Serviços de Ativos Virtuais Ltda. (CNPJ 41.043.469/0001-95) como operadora da plataforma e informam que o pedido de autorização no Banco Central está registrado sob o NUP 18600.126664/2026-41. Pedido não é autorização.",
