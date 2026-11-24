@@ -10,18 +10,18 @@ Open data behind [VASP Tracker](https://vasptracker.com/): when crypto firms (vi
 - **Methodology:** https://vasptracker.com/en/br/methodology/
 - **Press:** https://vasptracker.com/en/br/press/ · press@vasptracker.com
 
-Snapshot in this repository: version **1.4.0**, built **21 Nov 2026**; Brazil Central Bank (BCB) reference date **31/10/2026**. The live files on vasptracker.com are refreshed on every run and are the canonical version.
+Snapshot in this repository: version **1.5.0**, built **23 Nov 2026**; Brazil Central Bank (BCB) reference date **31/10/2026**. The live files on vasptracker.com are refreshed on every run and are the canonical version.
 
 ## What's Inside
 
 | File | Contents | Rows |
 |---|---|---|
 | `data/global/jurisdictions.csv` | One row per jurisdiction: region, regulator, regime, status (`upcoming`, `date_pending`, `in_force`), next or last key date, official register URL, sources | 78 |
-| `data/global/deadlines.csv` / `.json` | Dated events per jurisdiction (application deadlines, transition ends, entry into force, rules, notices) with source URLs and source type | 209 |
+| `data/global/deadlines.csv` / `.json` | Dated events per jurisdiction (application deadlines, transition ends, entry into force, rules, notices) with source URLs and source type | 212 |
 | `data/br/platforms.csv` / `.json` | Platforms serving Brazil: BCB status, legal entities and CNPJ, BCB process numbers, public statements with source and source type | 170 |
 | `data/br/spsav_processes.csv` / `.json` | Crypto-related authorisation processes in BCB open data (SPSAV segment + crypto-named processes with no segment stated) | 46 |
 | `data/br/series.csv` | Counts per monthly BCB collection, Jan 2024 to Oct 2026 (no data for Aug 2024) | 33 |
-| `data/br/changelog.csv` / `.json` | Detected changes between BCB snapshots | 74 |
+| `data/br/changelog.csv` / `.json` | Detected changes between BCB snapshots | 75 |
 | `data/br/stats.json`, `data/br/meta.json` | Headline counts and build metadata | — |
 | `data/index.html` | Copy of the live open-data page (https://vasptracker.com/data/) at build time; it also lists per-country files that are not part of this repository | — |
 
@@ -48,6 +48,17 @@ Brazil data comes from Banco Central do Brasil open data ([authorisation process
 This is not legal or financial advice. VASP Tracker is an independent project and is not affiliated with Banco Central do Brasil, ESMA or any regulator.
 
 ## Changelog
+
+### 1.5.0 (2026-11-24)
+
+Changes since the previous published snapshot (1.4.0):
+
+- Jurisdictions: 78 → 78.
+- Jurisdiction status / key-date changes: Russia: key date 2026-11-22 → 2027-07-01.
+- Dated events: 209 → 212 (3 added, 0 removed or re-dated). Added by jurisdiction: `cz` 1, `es` 1, `pt` 1.
+- Rows with `our_calculation` = True: 9 → 9.
+- Brazil platforms: 170 → 170; `bcb_status` art22 5, denied 1, in_process 67, not_in_data 97 → art22 5, denied 1, in_process 67, not_in_data 97.
+- BCB reference date 31/10/2026 → 31/10/2026; SPSAV processes 46 → 46; BCB change-log rows 74 → 75.
 
 ### 1.4.0 (2026-11-22)
 
@@ -107,7 +118,7 @@ First public snapshot (built 21 Oct 2026; BCB reference date 30/09/2026).
 
 ## Citation
 
-> VASP Tracker (2026). *Crypto licensing deadlines worldwide and Brazil SPSAV tracker* (Version 1.4.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23575353
+> VASP Tracker (2026). *Crypto licensing deadlines worldwide and Brazil SPSAV tracker* (Version 1.5.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23575353
 
 See `CITATION.cff`. The DOI [10.5281/zenodo.23575353](https://doi.org/10.5281/zenodo.23575353) always resolves to the newest archived version.
 
