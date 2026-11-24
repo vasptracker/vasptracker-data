@@ -1,5 +1,14 @@
 [
  {
+  "date": "2026-11-23",
+  "snapshot": "situacao",
+  "type": "status_changed",
+  "numero_pe": 310426,
+  "nome": "WYNX EXCHANGE SOCIEDADE PRESTADORA DE SERVICOS DE ATIVOS VIRTUAIS S/A",
+  "from": "Em Agenda",
+  "to": "Em Exame"
+ },
+ {
   "date": "2026-11-19",
   "snapshot": "situacao",
   "type": "status_changed",

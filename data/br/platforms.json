@@ -2,15 +2,15 @@
  "license": "CC BY 4.0",
  "attribution": "VASP Tracker (vasptracker.com)",
  "meta": {
-  "generated_at": "2026-11-21T09:20:13-03:00",
-  "run_date": "2026-11-21",
+  "generated_at": "2026-11-23T20:49:46-03:00",
+  "run_date": "2026-11-24",
   "latest_snapshot": "2026-10",
   "latest_data_base": "31/10/2026",
   "snapshots": 33,
   "snapshot_errors": {
    "2024-08": "BCB OData returns HTTP 500 for this data-base (server-side; month cannot be read in full)"
   },
-  "pix_list_date": "20261120",
+  "pix_list_date": "20261123",
   "authorized_spsav_count": 0,
   "institutions_rows": {
    "SedesSociedades": 706,
@@ -864,7 +864,7 @@
    "legal_entities": "Wynx Exchange Sociedade Prestadora de Serviços de Ativos Virtuais S/A (66.643.089)",
    "cnpj_roots": "66643089",
    "spsav_process_numbers": "310426",
-   "bcb_situacao": "Em Agenda",
+   "bcb_situacao": "Em Exame",
    "other_bcb_registrations": "",
    "public_stance": "in_bcb_dataset",
    "statement_pt": "",
